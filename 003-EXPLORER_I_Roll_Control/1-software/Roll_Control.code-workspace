@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"name": "01-Avionics-Roll_Control_v1",
+			"path": "01-Avionics-Roll_Control_v1"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"cmath": "cpp",
+			"array": "cpp",
+			"string": "cpp",
+			"string_view": "cpp"
+		}
+	}
+}

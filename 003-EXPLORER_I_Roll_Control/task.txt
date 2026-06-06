@@ -1,0 +1,2 @@
+- buy tsp f35 motor 29mm
+- make airframe -> new railbuttons, mass budget calculated

@@ -1,0 +1,25 @@
+    /*Serial Output - DO NOT CHANGE OR REMOVE VARIABLES, IF NOT USED THEY'RE INITIALIZED AND KEPT TO 0*/
+    Serial.print(om); Serial.print("\t");                         // 1 Op Mode
+    Serial.print(fq); Serial.print("\t");                         // 2 Frequency Hz
+    Serial.print(ts, 4); Serial.print("\t");                      // 3 Timestamp 
+    Serial.print(ax); Serial.print("\t");                         // 4 X-axis accelerometer data
+    Serial.print(ay); Serial.print("\t");                         // 5 Y-axis accelerometer data
+    Serial.print(az); Serial.print("\t");                         // 6 Z-axis accelerometer data
+    Serial.print(gx); Serial.print("\t");                         // 7 X-axis gyroscope data
+    Serial.print(gy); Serial.print("\t");                         // 8 Y-axis gyroscope data
+    Serial.print(gz); Serial.print("\t");                         // 9 Z-axis gyroscope data
+    Serial.print(mx); Serial.print("\t");                         // 10 X-axis mag data
+    Serial.print(my); Serial.print("\t");                         // 11 Y-axis mag data
+    Serial.print(mz); Serial.print("\t");                         // 12 Z-axis mag data
+    Serial.print(p); Serial.print("\t");                          // 13 Pitch angle
+    Serial.print(y); Serial.print("\t");                          // 14 Yaw angle
+    Serial.print(r); Serial.print("\t");                          // 15 Roll angle
+    Serial.print(vx); Serial.print("\t");                         // 16 X-axis velocity
+    Serial.print(vy); Serial.print("\t");                         // 17 Y-axis velocity
+    Serial.print(vz); Serial.print("\t");                         // 18 Z-axis velocity
+    Serial.print(al); Serial.print("\t");                         // 19 Altitude
+    Serial.print(tp); Serial.print("\t");                         // 20 Temperature                   
+    Serial.print(lat); Serial.print("\t");                        // 21 lat GPS data
+    Serial.print(lng); Serial.print("\t");                        // 22 lng GPS data
+    Serial.print(al_gps); Serial.print("\t");                     // 23 alt GPS data
+    Serial.print(ve_gps); Serial.println("\t");                   // 24 vel GPS data
