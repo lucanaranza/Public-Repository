@@ -1,1 +1,0 @@
-/*-----Task_for_Sensors_operation-----*/
